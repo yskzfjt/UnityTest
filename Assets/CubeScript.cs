@@ -11,6 +11,7 @@ public class CubeScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	Debug.Log("Hello World");
+	Debug.Log("Hello World2");
 	
 	}
 }
